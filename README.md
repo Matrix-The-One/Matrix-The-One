@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.Matrix-The-One.com"><img src="banner.png" alt="Matrix-The-One Banner"></a>
+  <a href="https://www.Matrix-The-One.com"><img src="坂上智代.jpg" alt="坂上智代"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://www.Matrix-The-One.com">Edison Lee</a>!</h1>
