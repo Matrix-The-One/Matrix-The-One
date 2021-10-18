@@ -8,7 +8,7 @@
   </a>
 </h1>
 
-<h1 align="center"> 📊 Stats: </h1>
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px' align="center"> My Github Stats:
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Matrix-The-One&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
