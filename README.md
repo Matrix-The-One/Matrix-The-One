@@ -8,6 +8,7 @@
   </a>
 </h1>
 
+<h1 align="center"> 📊 Stats: </h1>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Matrix-The-One&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
