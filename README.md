@@ -11,6 +11,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matrix-The-One&theme=dark)](https://git.io/streak-stats)
 
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+   <img src="https://activity-graph.herokuapp.com/graph?username=raklaptudirm&theme=react-dark&hide_border=true">
+ </a>
+
 <!--
 **Matrix-The-One/Matrix-The-One** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
