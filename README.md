@@ -17,7 +17,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Matrix-The-One&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matrix-The-One&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444&hide=css,html,php"  height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matrix-The-One&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
   </a>
   <br>
   <a href="https://git.io/streak-stats">
