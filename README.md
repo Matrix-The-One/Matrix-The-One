@@ -11,7 +11,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matrix-The-One&theme=dark)](https://git.io/streak-stats)
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/Matrix-The-One">
   <img src="https://activity-graph.herokuapp.com/graph?username=Matrix-The-One&theme=react-dark&hide_border=true">
 </a>
 
