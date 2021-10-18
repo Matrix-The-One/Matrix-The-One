@@ -13,10 +13,8 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Matrix-The-One&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matrix-The-One&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matrix-The-One&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://raw.githubusercontent.com/Matrix-The-One/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/Matrix-The-One/github-stats-transparent/output/generated/languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matrix-The-One&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <strong><a href="https://www.Matrix-The-One.com">Official Website</a></strong> |
