@@ -15,6 +15,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matrix-The-One&theme=dark)](https://git.io/streak-stats)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Matrix-The-One&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![](https://raw.githubusercontent.com/Matrix-The-One/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Matrix-The-One/github-stats-transparent/output/generated/languages.svg)
 
 <p align="center">
   <strong><a href="https://www.Matrix-The-One.com">Official Website</a></strong> |
