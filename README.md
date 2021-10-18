@@ -1,12 +1,12 @@
+<p align="center">
+  <a href="https://www.Matrix-The-One.com"><img src="slack-off.gif" alt="摸鱼"></a>
+</p>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);System.out.println(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);fmt.Println(%22Hello%2C%20World!%22);println!(%22Hello%2C%20World!%22);cout%20%3C%3C%20%22Hello%2C%20World!%22&center=true&size=27&width=550">
   </a>
 </div>
-
-<p align="center">
-  <a href="https://www.Matrix-The-One.com"><img src="slack-off.gif" alt="摸鱼"></a>
-</p>
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Matrix-The-One&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
