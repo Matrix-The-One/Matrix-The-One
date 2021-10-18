@@ -11,16 +11,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matrix-The-One&theme=dark)](https://git.io/streak-stats)
 
-<p align="center">
-  <strong><a href="https://www.Matrix-The-One.com">Official Website</a></strong> |
-  <strong><a href="https://twitter.com/Matrix-The-One">Twitter</a></strong> |
-  <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/Matrix-The-One">LinkedIn</a></strong> |
-  <strong><a href="https://www.twitch.tv/Matrix-The-One">Twitch</a></strong>
-</p>
-
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
-
 <!--
 **Matrix-The-One/Matrix-The-One** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
