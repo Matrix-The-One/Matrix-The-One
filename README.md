@@ -17,12 +17,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matrix-The-One&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
   </a>
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Matrix-The-One&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a>
-</p>
-<h1 align="center"> 🔥 Contributions: </h1>
-<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Matrix-The-One&theme=react&background=0d1117&border=666">
   </a>
@@ -31,6 +25,7 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=Matrix-The-One&theme=react-dark&hide_border=true">
   </a>
 </p>
+
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Matrix-The-One&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
