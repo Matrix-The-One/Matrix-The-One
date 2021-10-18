@@ -1,5 +1,5 @@
-<h1>Hi, I'm <a href="https://www.Matrix-The-One.com">Neo</a>！Welcome to my GitHub profile~ OwO</h1>
-<h1>Welcome to my GitHub profile~ OwO</h1>
+<h1>Hi, I'm <a href="https://www.Matrix-The-One.com">Neo</a>!</h1>
+
 
 <p align="center">
   <a href="https://www.Matrix-The-One.com"><img src="slack-off.gif" alt="摸鱼"></a>
