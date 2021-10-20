@@ -28,7 +28,7 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=Matrix-The-One&theme=react-dark&hide_border=true">
   </a>
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jasonkayzk/count.svg" />
+  <img src="https://profile-counter.glitch.me/Matrix-The-One/count.svg" />
 </p>
 
 <!--
