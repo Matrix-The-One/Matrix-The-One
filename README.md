@@ -27,8 +27,6 @@
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=Matrix-The-One&theme=react-dark&hide_border=true">
   </a>
-  U V
-  <br />
   <img src="https://profile-counter.glitch.me/Matrix-The-One/count.svg" />
 </p>
 
