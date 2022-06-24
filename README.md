@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+the+real+world%EF%BC%81&center=true&size=27&width=500">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+the+real+world%EF%BC%81&center=true&size=27&width=550">
   </a>
 </h1>
 
