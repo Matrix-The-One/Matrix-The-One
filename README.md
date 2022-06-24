@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://www.coderljw.ga/"><img src="slack-off.gif" alt="摸鱼校尉" style="width: 100%"></a>
+  <a href="http://www.coderljw.ga/"><img src="slack-off.gif" alt="摸鱼校尉"></a>
 </p>
 
 <h1 align="center">
