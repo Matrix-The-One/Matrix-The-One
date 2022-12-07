@@ -15,14 +15,14 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Matrix-The-One&theme=react&background=0d1117&border=666" style="width: 60%; margin: 0 auto" >
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Matrix-The-One&theme=react&background=0d1117&border=666" width='60%' >
   </a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Matrix-The-One&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444"  width='400' height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=Matrix-The-One&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444"  width='50%'>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matrix-The-One&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  width='396'  height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matrix-The-One&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  width='50%'>
   </a>
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
