@@ -19,10 +19,10 @@
   </a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Matrix-The-One&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444"  width="40%">
+    <img src="https://github-readme-stats.vercel.app/api?username=Matrix-The-One&count_private=true&theme=tokyonight&show_icons=true" align="center" width="40%">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matrix-The-One&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  width="40%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matrix-The-One&count_private=true&theme=tokyonight&layout=compact&hide=html"  align="center" width="40%">
   </a>
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
