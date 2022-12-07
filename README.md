@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Matrix-The-One&theme=react&background=0d1117&border=666">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Matrix-The-One&theme=react&background=0d1117&border=666" style="width: 100%" >
   </a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
