@@ -41,7 +41,7 @@
   <br />
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img
-      src="https://github-readme-activity-graph.cyclic.app/graph?username=Matrix-The-One&theme=tokyo-night&hide_border=true&radius=8"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Matrix-The-One&theme=tokyo-night&hide_border=true&radius=8"
     />
   </a>
 </p>
